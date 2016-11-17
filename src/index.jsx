@@ -5,7 +5,7 @@ import YTSearch from 'youtube-api-search';
 import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
-const API_KEY = 'AIzaSyCIrb3sxXC_VFPhnKFgeWmo4KGfJXPXsIY';
+const API_KEY = ''; // put your google credential here from: https://console.developers.google.com/
 
 // create a new component, this component should produce some HTML
 class App extends Component {

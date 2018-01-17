@@ -6,6 +6,6 @@ Small Youtube searcher using React from a Udemy course.
 ## Getting Started
 
 ```
-	> npm install
-	> npm start
+> npm install
+> npm start
 ```
